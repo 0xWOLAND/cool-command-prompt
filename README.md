@@ -8,7 +8,7 @@ Zsh: curl -L https://iterm2.com/shell_integration/zsh -o ~/.iterm2_shell_integra
 It is also available to be downloaded from the iTerm2 website at https://www.iterm2.com/downloads.html.
 
 Currently, the files have only been able to work for the ZSH shell, but it may or may not work for other shells.
-Copy and paste the init.zshrc file's contents into your .zshrc file by running:
+Copy and paste the zshrc.txt file's contents into your .zshrc file by running:
 
 vim ~/.zshrc
 
@@ -28,5 +28,5 @@ You can change the colors of iTerm2 by going to Preferences -> Profiles -> Color
 
 vim ~/.vimrc
 
-Copy the contents of init.vimrc into your .vimrc file.
+Copy the contents of vimrc.txt into your .vimrc file.
 
